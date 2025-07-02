@@ -1,5 +1,5 @@
 # CodeAlpha_WebScraping
-d book titles and prices from http://books.toscrape.com using BeautifulSoup.
+Scraped book titles and prices from http://books.toscrape.com using BeautifulSoup.
 
 ## Technologies
 - Python
